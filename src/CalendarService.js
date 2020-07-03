@@ -2,7 +2,7 @@ import axios from 'axios';
 
 
 
-const url = 'http://localhost:5000/api/events/';
+const url = 'http://vuescheduler.herokuapp.comapi/events/';
 
 class CalendarService {
     // Get Posts
